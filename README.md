@@ -11,4 +11,4 @@ Coming soon...
 - THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 ## Screenshot
-<img src="screenshot.png">
+<img src="./dist/images/screenshot.png">
